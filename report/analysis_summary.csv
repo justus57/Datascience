@@ -1,0 +1,11 @@
+,0
+n_customers,30000.0
+eligible_pct,0.8356
+markov_steady_prime,0.0
+markov_steady_near_prime,0.0
+markov_steady_subprime,1.0
+uptake_model_test_accuracy,1.0
+optimized_n_selected,1.0
+optimized_expected_profit,36.88283619394891
+optimized_total_exposure,1704.0
+capital_budget,2722.7999999999997
